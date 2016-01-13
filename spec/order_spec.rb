@@ -12,7 +12,7 @@ describe Order do
     it 'should update the status to completed' do
       order = Order.new(20, 'dude@hotmail.com')
       result = double(success: true)
-      puts result.inspect
+      # puts result.inspect
       # allow(result).to receive(:success).and_return(true)
       allow(order).to receive(:notify_customer).and_return(result)
       order.submit

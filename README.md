@@ -1,4 +1,4 @@
-## Subjects / Topics
+## Subjects / Topics we covered
 
 * Simple OOP
 * private methods
@@ -11,13 +11,9 @@
 * Mocking
 * Inner classes (namespacing) - didn't get to talk about this yet
 
-## What
+## What is it?
 
 Order system with one class that sends an email upon submit (keeping it simple)
-
-* Review OOP
-* Stubbing
-* Mocking
 
 
 ## Setup
